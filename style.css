@@ -774,12 +774,13 @@ font-weight: 600; */
     top: 347px;
     left: 9%;
     width: 80%;
-    font: normal normal 900 27px/34px Bauhaus Hv BT;
+    font: normal normal 900 1.4em Bauhaus Hv BT;
     letter-spacing: 0px;
     color: white;
     text-transform: uppercase;
     opacity: 1;
     font-family: "Fredoka One";
+    text-align: center;
     /* font-family: 'Josefin Sans', sans-serif; */
   }
   .box5 {
